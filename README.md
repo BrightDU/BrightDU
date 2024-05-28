@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**BrightDU/BrightDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About Me
 
-Hi, I'm Bright Daniel Uto! I'm a FullStack-Software Developer with a passion for creating accessible and innovative solutions and sharing knowledge. I founded [Crystal EdTech](https://www.crystaledtech.com) because of my passion for innovative Technologies, knowledge sharing and inclusive Education.
+I'm Bright Daniel Uto, a FullStack-Software Developer with a passion for creating accessible and innovative solutions and sharing knowledge. I founded [Crystal EdTech](https://www.crystaledtech.com) because of my passion for innovative Technologies, knowledge sharing and inclusive Education.
 
 Here are some ideas to get you started:
 
