@@ -4,7 +4,6 @@
 
 I'm Bright Daniel Uto, a FullStack-Software Developer with a passion for creating accessible and innovative solutions and sharing knowledge. I founded [Crystal EdTech](https://www.crystaledtech.com) because of my passion for innovative Technologies, knowledge sharing and inclusive Education.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web2 and Web3 projects
 - 🌱 I’m currently learning Artificial Intelligence for teaching and learning.
