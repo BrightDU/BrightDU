@@ -8,7 +8,7 @@ I'm Bright Daniel Uto, a FullStack-Software Developer with a passion for creatin
 - 🔭 I’m currently working on Web2 and Web3 projects
 - 🌱 I’m currently learning Artificial Intelligence for teaching and learning.
 - 👯 I’m looking to collaborate on Web2/Web3/BlockChain/EdTech/HealthTech/AgricTech projects 
-- 💬 Ask me about Technology, EdTech, Neurodivergence and Therapeutics.
+- 💬 I am interested in the love of God, Technology, EdTech, Neurodivergence, Psychology, Therapeutics, Entrepreneurship and Startups.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brightdanieluto)
 - ⚡  Do you know? I am a self-motivated and adaptable team player, driven by a passion for problem-solving and achieving positive outcomes.
 -->
